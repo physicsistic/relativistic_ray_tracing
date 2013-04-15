@@ -1,0 +1,229 @@
+PLANE
+Ground Plane
+# location
+0.0 1.0 0.0
+# point
+0.0
+# diffuse
+1.0
+# specular
+0.0
+# reflection
+0.0
+# refraction
+0.0
+#color
+0.5 0.5 0.5
+
+SPHERE
+Red Sphere
+# location
+3.0 1.0 10.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 0.5 0.5
+
+SPHERE
+Yellow Sphere
+# location
+0.0 1.0 10.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 1.0 0.5
+
+SPHERE
+Green Sphere
+# location
+-3.0 1.0 10.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+0.5 1.0 0.5
+
+SPHERE
+Red Sphere
+# location
+3.0 1.0 2.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 0.5 0.5
+
+SPHERE
+Yellow Sphere
+# location
+0.0 1.0 2.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 1.0 0.5
+
+SPHERE
+Green Sphere
+# location
+-3.0 1.0 2.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+0.5 1.0 0.5
+
+SPHERE
+Red Sphere
+# location
+3.0 1.0 18.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 0.5 0.5
+
+SPHERE
+Yellow Sphere
+# location
+0.0 1.0 18.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 1.0 0.5
+
+SPHERE
+Green Sphere
+# location
+-3.0 1.0 18.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+0.5 1.0 0.5
+
+SPHERE
+Red Sphere
+# location
+3.0 1.0 26.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 0.5 0.5
+
+SPHERE
+Yellow Sphere
+# location
+0.0 1.0 26.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+1.0 1.0 0.5
+
+SPHERE
+Green Sphere
+# location
+-3.0 1.0 26.0
+1.0
+# diffuse
+0.5
+# specular
+0.5
+# reflection
+0.0
+# refraction
+0.0
+# color
+0.5 1.0 0.5
+
+LIGHT
+Light 1
+# location
+-10.0 10.0 10.0
+#color
+1.0 1.0 1.0
+
+LIGHT
+Light 2
+# location
+0.0 10.0 10.0
+#color
+0.5 0.5 0.5
+
+LIGHT
+Light 3
+# location
+0.0 10.0 -55.0
+#color
+0.5 0.5 0.5
